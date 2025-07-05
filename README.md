@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  <br>- Machine learning projects, especially clustering smart contract risks 🧠  <br>- A Pinterest + Medium health & wellness brand called **Cosmo Energy** 🌿  <br><br>👯 I’m looking to collaborate on:  <br>- AI/ML projects (especially NLP and sentiment analysis)  <br>- Creative faceless YouTube or social media automation ideas  <br><br>🌱 I’m currently learning:  <br>- Deep learning, transformer models, AI alignment  <br>- Full-stack development basics with React + Node.js  <br>- How to scale a personal brand using SEO and social platforms <br>
+🔭 I’m currently working on:  <br>- AI/ML projects (especially NLP and sentiment analysis)  <br>- Creative faceless YouTube or social media automation ideas  <br><br>🌱 I’m currently learning:  <br>- Deep learning, transformer models, AI alignment  <br>- Full-stack development basics with React + Node.js  <br>- How to scale a personal brand using SEO and social platforms <br>
 
 
 ## 🌐 Socials:
